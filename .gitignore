@@ -1,0 +1,15 @@
+# File temporanei e di backup
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/
+
+# File di blocco (evitano l'apertura simultanea)
+*.lck
+
+# File di output della fabbricazione (opzionale, meglio rigenerarli)
+gerber/
+plots/
+*.pdf
+*.drl
+*.gbr

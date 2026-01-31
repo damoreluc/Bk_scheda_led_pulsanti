@@ -1,0 +1,12 @@
+Plotted to 'D:\KiCad\Traccia stampati\SImulatore Beckhoff1.8\Bk scheda led e pulsanti 1_1-F_Cu.gbr'.
+Plotted to 'D:\KiCad\Traccia stampati\SImulatore Beckhoff1.8\Bk scheda led e pulsanti 1_1-B_Cu.gbr'.
+Plotted to 'D:\KiCad\Traccia stampati\SImulatore Beckhoff1.8\Bk scheda led e pulsanti 1_1-F_Paste.gbr'.
+Plotted to 'D:\KiCad\Traccia stampati\SImulatore Beckhoff1.8\Bk scheda led e pulsanti 1_1-B_Paste.gbr'.
+Plotted to 'D:\KiCad\Traccia stampati\SImulatore Beckhoff1.8\Bk scheda led e pulsanti 1_1-F_Silkscreen.gbr'.
+Plotted to 'D:\KiCad\Traccia stampati\SImulatore Beckhoff1.8\Bk scheda led e pulsanti 1_1-B_Silkscreen.gbr'.
+Plotted to 'D:\KiCad\Traccia stampati\SImulatore Beckhoff1.8\Bk scheda led e pulsanti 1_1-F_Mask.gbr'.
+Plotted to 'D:\KiCad\Traccia stampati\SImulatore Beckhoff1.8\Bk scheda led e pulsanti 1_1-B_Mask.gbr'.
+Plotted to 'D:\KiCad\Traccia stampati\SImulatore Beckhoff1.8\Bk scheda led e pulsanti 1_1-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\KiCad\Traccia stampati\SImulatore Beckhoff1.8\Bk scheda led e pulsanti 1_1-job.gbrjob'.
+Info: Done.
+Info: Done.
