@@ -10,6 +10,6 @@
 # File di output della fabbricazione (opzionale, meglio rigenerarli)
 gerber/
 plots/
-*.pdf
+#*.pdf
 *.drl
 *.gbr
