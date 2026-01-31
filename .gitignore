@@ -3,12 +3,13 @@
 *.kicad_pcb-bak
 *.kicad_sch-bak
 *-backups/
+*.zip
 
 # File di blocco (evitano l'apertura simultanea)
 *.lck
 
 # File di output della fabbricazione (opzionale, meglio rigenerarli)
-gerber/
+Gerber/
 plots/
 #*.pdf
 *.drl
